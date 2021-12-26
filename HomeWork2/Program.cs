@@ -20,7 +20,7 @@ namespace HomeWork2
                 InputParseAndSave(name);
                 if (InputParseAndSave(name).Name != null)
                 {
-                    Console.WriteLine($"Your Name is {InputParseAndSave(name).Name} {InputParseAndSave(name).Surname} ");
+                    Console.WriteLine($"Your Name is {InputParseAndSave(name).Name} {InputParseAndSave(name).Surname}\nIf you wish to Try again press Any Key \nTo Exit Press ESC");
                 }
                 else
                 {
