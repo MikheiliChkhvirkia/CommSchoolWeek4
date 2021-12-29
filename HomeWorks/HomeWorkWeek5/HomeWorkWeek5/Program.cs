@@ -65,7 +65,7 @@ namespace HomeWorkWeek5
             if (input.FirstInput > input.SecondInput)
             {
                 Console.WriteLine("First Number - Second Number = " + (input.FirstInput - input.SecondInput));
-                if (input.FirstInput != 0 || input.SecondInput != 0)
+                if (input.FirstInput != 0 && input.SecondInput != 0)
                     Console.WriteLine("First Number / Second Number = " + (input.FirstInput / input.SecondInput));
                 else
                     Console.WriteLine("Not Allowed To Divide By Zero");
@@ -73,7 +73,7 @@ namespace HomeWorkWeek5
             else
             {
                 Console.WriteLine("Second Number - First Number = " + (input.SecondInput - input.FirstInput));
-                if (input.FirstInput != 0 || input.SecondInput != 0)
+                if (input.FirstInput != 0 && input.SecondInput != 0)
                     Console.WriteLine("Second Number / First Number = " + (input.SecondInput / input.FirstInput));
                 else
                     Console.WriteLine("Not Allowed To Divide By Zero");
