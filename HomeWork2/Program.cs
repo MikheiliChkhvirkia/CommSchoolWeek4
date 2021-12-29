@@ -27,6 +27,7 @@ namespace HomeWork2
                     Console.WriteLine($"Your Name Or Surname is Written Incorrectly : {name}\nIf you wish to Try again press Any Key \nTo Exit Press ESC");
                 }
                 input = Console.ReadKey();
+                Console.Clear();
             }while(input.Key != ConsoleKey.Escape);
             Console.ForegroundColor = ConsoleColor.White;
         }
