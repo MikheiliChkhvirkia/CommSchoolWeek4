@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\bin\Debug\net5.0\HomeWorkWeek8.exe
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\bin\Debug\net5.0\HomeWorkWeek8.deps.json
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\bin\Debug\net5.0\HomeWorkWeek8.runtimeconfig.json
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\bin\Debug\net5.0\HomeWorkWeek8.runtimeconfig.dev.json
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\bin\Debug\net5.0\HomeWorkWeek8.dll
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\bin\Debug\net5.0\ref\HomeWorkWeek8.dll
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\bin\Debug\net5.0\HomeWorkWeek8.pdb
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net5.0\HomeWorkWeek8.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net5.0\HomeWorkWeek8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net5.0\HomeWorkWeek8.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net5.0\HomeWorkWeek8.AssemblyInfo.cs
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net5.0\HomeWorkWeek8.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net5.0\HomeWorkWeek8.dll
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net5.0\ref\HomeWorkWeek8.dll
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net5.0\HomeWorkWeek8.pdb
+C:\Users\admin\source\repos\HomeWork2\HomeWorkWeek8\HomeWorkWeek8\obj\Debug\net5.0\HomeWorkWeek8.genruntimeconfig.cache

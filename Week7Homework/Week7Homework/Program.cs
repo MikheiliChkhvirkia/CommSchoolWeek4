@@ -9,11 +9,11 @@ namespace Week7Homework
     {
         static void Main(string[] args)
         {
-            HomeWork1();
-            HomeWork2();
-            HomeWork3();
-            HomeWork4();
-            HomeWork5();
+            //HomeWork1();
+            //HomeWork2();
+            //HomeWork3();
+            //HomeWork4();
+            //HomeWork5();
             HomeWork6();
         }
         #region HomeWork1
@@ -237,7 +237,9 @@ namespace Week7Homework
         {
             int inputLength=0;
             List<string> words = new() { "possibility", "muscle", "syndrome", "bacon", "assume", "wake", "magnetic", "herd", "arrest", "chord", "tree" };
+
             int rndLength = RandomInt();
+
             string[] rndWords = new string[rndLength];
 
             Console.Write("Input Length : ");
@@ -273,23 +275,19 @@ namespace Week7Homework
         static void Output(List<string>? words, string[]? rndWords)
         {
             if (words != null && words.Any())
-            {
                 Console.WriteLine("\nMeaningful words list\n");
                 foreach (var item in words)
                 {
                     Console.Write(item + ", ");
                 }
                 Console.WriteLine("\n");
-            }
             if(rndWords != null && rndWords.Any())
-            {
                 Console.WriteLine("Random words List\n");
                 for (int i = 0; i < rndWords.Length; i++)
                 {
                     Console.Write(rndWords[i] + ", ");
                 }
                 Console.WriteLine("\n");
-            }
         }
         static void OutputOfQuery(IEnumerable<string> query)
         {
